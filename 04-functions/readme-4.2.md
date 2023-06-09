@@ -13,7 +13,6 @@ The `calcSurface` function calculates the surface area of a rectangle based on i
 
 ### Example
 
-```javascript
 let length = 5;
 let width = 8;
 let result = calcSurface(length, width);
