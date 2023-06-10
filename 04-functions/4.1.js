@@ -1,5 +1,10 @@
 const readlineSync = require("readline-sync");
-
+/**
+ * Returns the surface area of a rectangle
+ * @param {number} lenght 
+ * @param {number} width 
+ * @returns 
+ */
 function calcSurface(lenght, width) {
     let surface = lenght * width;
     return surface;
