@@ -2,7 +2,7 @@
 
 ## The first one should use **while** and make a loop that will execute 100 times.
 
-* La variable i est initialisée à 0.
+* La variable i est initialisée à 0 (i = currentValueOfMyIteration, on utilise i par convention car c'est plus court).
 * La condition de la boucle while est vérifiée à chaque itération. Tant que la valeur de i est inférieure ou égale à 100, le bloc de code à l'intérieur de la boucle est exécuté.
 * À chaque itération, le nombre i est affiché dans la console à l'aide de console.log(i).
 * Ensuite, la valeur de i est augmentée de 2 en utilisant l'opérateur d'incrémentation += 2. Cela permet de passer au prochain nombre pair.

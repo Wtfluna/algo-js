@@ -8,3 +8,5 @@
 * Après la boucle, le résultat de la somme est affiché dans la console en utilisant console.log("Sum of array elements:", total).
 
 * En résumé, ce code parcourt chaque élément du tableau myArray et calcule la somme de ces éléments en utilisant une boucle for. Le résultat de la somme est ensuite affiché dans la console. Dans cet exemple, la somme des éléments [100, 101, 102] du tableau est calculée et affichée.
+
+https://media.geeksforgeeks.org/wp-content/uploads/20220721080308/array.png
